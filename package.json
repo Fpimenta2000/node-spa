@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "knex": "^0.19.1",
+    "knex": "^2.4.0",
     "mysql": "^2.17.1",
     "nodemon": "^1.19.1",
     "pg": "^7.12.1",
